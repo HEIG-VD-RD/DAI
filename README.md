@@ -1,4 +1,4 @@
-# DAI
+# Web Application Development
 This repository contains all my practical work related to the Web Application Development course.
 
 [Labo1 - Tools](https://github.com/Rafou2898/dai-lab-tools) <br>
